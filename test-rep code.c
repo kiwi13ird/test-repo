@@ -6,3 +6,6 @@ void main(){
 
     return 0;
 }
+
+부계정으로 yoongyuri의 repo를 fork했습니다.
+Touched by user2
